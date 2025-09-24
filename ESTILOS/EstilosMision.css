@@ -1,0 +1,57 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: brown;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-size: large;
+    text-align: justify;
+}
+#vlr{
+    color: black;
+    font-family: Arial black;
+
+}
+#des{
+    font-family: Arial black;
+}
+table { 
+    border-collapse: collapse;
+    width: 100%; 
+    background-color: aquamarine;
+
+} 
+tr{
+    background-color: aquamarine;
+}
+ td { 
+ border: 1px   solid #ddd; 
+ padding: 8px; 
+ text-align: left;
+ background-color: aquamarine;
+ }
+
+td { 
+ border: 2px   solid #0b0808; 
+ padding: 8px; 
+ text-align:center;
+
+}
+footer { 
+ color: yellow; 
+ padding: 2px;
+ text-align: center; 
+ background-color: rgb(19, 12, 12);
+}
+#pie{
+    color: gray;
+    font-size: 15px;
+    text-align: center;
+}
